@@ -5,3 +5,4 @@
 - [优先费](doc/solana_ts/solana_fee.md)
 
 ## anchor教程列表
+- [如何使用anchor进行合约部署](doc/anchor/anchor_deploy_tutorial.md)
